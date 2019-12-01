@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">LinkedinApp</string>
+    <string name="dialog_title">select dmaone</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismmis</string>
+    <string name="clear_all_label">Clear all</string>
+    <string name="nom">Nom</string>
+    <string name="offre_title">offre title</string>
+    <string name="select_domoain">Select domoain</string>
+    <string name="select_type">Select type</string>
+    <string name="requiremments">Requiremments</string>
+    <string name="skills_and_experiences">Skills and Experiences</string>
+    <string name="postuler">postuler</string>
+
+    <string-array name="domaine_item">
+        <item>Onion</item>
+        <item>Sausage</item>
+        <item>Milk</item>
+        <item>Garlic</item>
+        <item>Beef</item>
+        <item>Veggies</item>
+        <item>Olive</item>
+        <item>Cheese</item>
+        <item>Tuna</item>
+        <item>Mushrooms</item>
+    </string-array>
+
+    <string-array name="requirement_item">
+        <item>Onion</item>
+        <item>Sausage</item>
+        <item>Milk</item>
+        <item>Garlic</item>
+        <item>Beef</item>
+        <item>Veggies</item>
+        <item>Olive</item>
+        <item>Cheese</item>
+        <item>Tuna</item>
+        <item>Mushrooms</item>
+    </string-array>
+
+    <string-array name="type_item">
+        <item>Onion</item>
+        <item>Sausage</item>
+        <item>Milk</item>
+        <item>Garlic</item>
+        <item>Beef</item>
+        <item>Veggies</item>
+        <item>Olive</item>
+        <item>Cheese</item>
+        <item>Tuna</item>
+        <item>Mushrooms</item>
+    </string-array>
+
+    <string-array name="skills_item">
+        <item>Onion</item>
+        <item>Sausage</item>
+        <item>Milk</item>
+        <item>Garlic</item>
+        <item>Beef</item>
+        <item>Veggies</item>
+        <item>Olive</item>
+        <item>Cheese</item>
+        <item>Tuna</item>
+        <item>Mushrooms</item>
+    </string-array>
+</resources>
