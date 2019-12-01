@@ -53,7 +53,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             style="@style/Widget.AppCompat.Button.Borderless.Colored"
-            android:text="continue"
+            android:text="continue3"
             android:textColor="@color/myDark"
             android:onClick="goToDashbord"
 
